@@ -1,1 +1,1 @@
-vless://814f4b11-fec6-4ce8-b7dd-37fda836f9c7@185.189.58.195:29059?type=tcp&encryption=none&security=none#%40failvpn_bot%20%7C%20DE%20%7C%20VLESS
+vless://ee55fed8-7d3e-48a5-9906-3150cc448728@185.189.58.195:29059?type=tcp&encryption=none&security=none#%40failvpn_bot%20%7C%20DE%20%7C%20VLESS
