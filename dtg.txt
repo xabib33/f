@@ -1,1 +1,1 @@
-vless://fe0b1631-5e58-48d4-a6f9-2da6af5583e2@23.137.249.110:20365?type=tcp&encryption=none&security=none#%40failvpn_bot%20%7C%20NL%20%7C%20VLESS
+vless://cb916672-ff5d-46b3-9f63-5b1ef51f2162@23.137.249.110:20365?type=tcp&encryption=none&security=none#%40failvpn_bot%20%7C%20NL%20%7C%20VLESS
